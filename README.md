@@ -2,14 +2,6 @@
 
 Welcome to the **AI Projects Repository**! This repository is designed for AI and data science enthusiasts to contribute and collaborate on various artificial intelligence projects. We aim to create a diverse range of AI projects, from machine learning models to advanced deep learning applications, while fostering an open-source community.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-- [Projects](#projects)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
