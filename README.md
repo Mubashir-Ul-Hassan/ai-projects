@@ -49,7 +49,6 @@ Confusion matrices
 Precision-Recall and ROC curves
 Below is an example plot showing training performance:
 
-<p align="center"> <img src="https://via.placeholder.com/600x400.png?text=Training+Performance+Plot" alt="Training Performance Plot"/> </p>
 
 ## Contributing
 We welcome contributions from the community! To contribute, follow these steps:
